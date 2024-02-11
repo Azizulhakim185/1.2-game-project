@@ -1,1 +1,1 @@
-# 1.2-game-project
+1st year 2nd semister game project
